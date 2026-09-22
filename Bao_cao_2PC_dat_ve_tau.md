@@ -2,11 +2,6 @@
 
 ## MÔ PHỎNG GIAO THỨC 2PC CHO GIAO DỊCH ĐẶT VÉ TÀU HỎA
 
-**Sinh viên:** Đoàn Trung Nguyên  
-**Mã sinh viên:** B24DTCN435  
-**Lớp:** HN-K24-CNTT4
-
----
 
 ## 1. Mục tiêu
 
